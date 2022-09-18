@@ -1,4 +1,11 @@
+
+
+
 1 Master
+<<<<<<< HEAD
 2 T
+=======
+2 BUG
+>>>>>>> bug
 3 Master
 4 MASTER
